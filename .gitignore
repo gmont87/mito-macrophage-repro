@@ -1,4 +1,23 @@
+# Virtual env
 .venv/
+
+# Raw data (too large)
+data/raw/
+data/processed/
+
+# Mac junk
 .DS_Store
+**/.DS_Store
+
+# Database (regenerate from code)
 *.db
+mito_macs.db
+
+# Outputs
+notebooks/*.png
+notebooks/*.pdf
+
+# Python
 __pycache__/
+*.pyc
+.env
