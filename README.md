@@ -10,10 +10,10 @@ This paper investigates mitochondrial heteroplasmy in mammalian macrophages, sho
 
 **Original figure**: Paper Figure 5A 
 
-![Fig.5A](notebooks/paper volcano.png)
+![Fig.5A](notebooks/paper_volcano.png)
 
 **My reproduction**:
 
-![My Volcano](notebooks/My volcano plot.png)
+![My Volcano](notebooks/My_volcano_plot.png)
 
 [Live notebook](notebooks/01_rnaseq_reproduction.ipynb)
