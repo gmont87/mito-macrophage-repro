@@ -9,13 +9,11 @@ Reproducing RNA-seq analysis from **Nature Communications November 2025** on mtD
 This paper investigates mitochondrial heteroplasmy in mammalian macrophages, showing reduced respiratory chain function vs. controls. Here I highlight data from their LPS-stimulated RNA-seq experiment by **reproducing the volcano plot** using SQL/Python on the public Dryad dataset. Key finding: **Ifnb1** (type I interferon) strongly upregulated in mtDNA mutants vs. WT.
 
 **Original figure**: Paper Figure 5A 
-**My reproduction**: 
 
 ![Fig.5A](notebooks/paper volcano.png)
 
-![My Volcano](My volcano plot.png)
+**My reproduction**:
+
+![My Volcano](notebooks/My volcano plot.png)
 
 [Live notebook](notebooks/01_rnaseq_reproduction.ipynb)
-
-
-![test](notebooks/My volcano plot.png)
